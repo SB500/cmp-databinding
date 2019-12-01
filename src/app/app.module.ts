@@ -10,7 +10,8 @@ import { AppComponent } from './app.component';
   declarations: [
     AppComponent,
     CockpitComponent,
-    ServerElementComponent
+    ServerElementComponent,
+
   ],
   imports: [
     BrowserModule,
